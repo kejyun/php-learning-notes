@@ -146,7 +146,7 @@ class Girl
 {
     // 不可以有抽象方法(abstract method)
     /**
-     * 旅遊抽象方法
+     * 旅遊抽象方法（無法實作）
      * ✘✘✘✘✘✘✘ ◢▆▅▄▃-崩╰(〒皿〒)╯潰-▃▄▅▆◣ ✘✘✘✘✘✘✘
      */
     abstract public function travel();
