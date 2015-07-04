@@ -49,7 +49,7 @@ abstract class Person
 abstract class Person
 {
     // 可以實作方法內容
-    
+
     /**
      * 吃飯
      */
@@ -181,3 +181,7 @@ abstract class Person
 // ✘✘✘✘✘✘✘ ◢▆▅▄▃-崩╰(〒皿〒)╯潰-▃▄▅▆◣ ✘✘✘✘✘✘✘
 $taiwan_person = new Person();
 ```
+
+## 抽象類別（Abstract Class）使用時機
+
+當「多個類別（Class）」之間有共同的方法（function）或屬性（attribute）時，可以將這些共用的地方寫成「抽象類別（Abstract Class）」，讓其他的「子類別（Class）」去繼承
