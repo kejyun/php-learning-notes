@@ -1,3 +1,6 @@
 # 文件
 
-* [PHP: The Right Way 繁體中文版](http://laravel-taiwan.github.io/php-the-right-way/)
+* [Awesome PHP](https://github.com/ziadoz/awesome-php)
+* [Zeal - offline API documentation browser](http://zealdocs.org/)
+* [PHP-Tools](https://github.com/asika32764/PHP-Tools)
+* [PHP Cheat Sheet | OverAPI.com](http://overapi.com/php/)
